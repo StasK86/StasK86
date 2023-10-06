@@ -46,14 +46,14 @@
 <h4><a name='projectStack'>:cookie:Стек проекта:</a></h4>
 
 <p align="center">
-    <a href="#"><img title="Java" src="https://github.com/StasK86/StasK86/blob/main/logo/java.svg" width="30px"/></a>
-    <a href="#"><img title="Gradle" src="https://github.com/StasK86/StasK86/blob/main/logo/Gradle.svg" width="50px"/></a>
-    <a href="#"><img title="JUnit5" src="https://github.com/StasK86/StasK86//blob/main/logo/JUnit5.svg" width="50px"/></a>
-    <a href="#"><img title="Selenide" src="https://github.com/StasK86/StasK86/blob/main/logo/Selenide.svg" width="50px"/></a>
-    <a href="#"><img title="Allure_Report" src="https://github.com/StasK86/StasK86/blob/main/logo/Allure_Report.svg" width="50px"/></a>
-    <a href="#"><img title="Jenkins" src="https://github.com/StasK86/StasK86/blob/main/logo/Jenkins.svg" width="50px"/></a>
-    <a href="#"><img title="Selenoid" src="https://github.com/StasK86/StasK86/blob/main/logo/Selenoid.svg" width="50px"/></a>
-    <a href="#"><img title="Allure Test Ops" src="https://github.com/StasK86/StasK86/blob/main/logo/AllureTestOps.svg" width="50px"/></a>
+    <a href="#"><img title="Java" src="https://github.com/StasK86/StasK86/blob/main/PSV/logo/java.svg" width="30px"/></a>
+    <a href="#"><img title="Gradle" src="https://github.com/StasK86/StasK86/blob/main/PSV/logo/Gradle.svg" width="50px"/></a>
+    <a href="#"><img title="JUnit5" src="https://github.com/StasK86/StasK86//blob/main/PSV/logo/JUnit5.svg" width="50px"/></a>
+    <a href="#"><img title="Selenide" src="https://github.com/StasK86/StasK86/blob/main/PSV/logo/Selenide.svg" width="50px"/></a>
+    <a href="#"><img title="Allure_Report" src="https://github.com/StasK86/StasK86/blob/main/PSV/logo/Allure_Report.svg" width="50px"/></a>
+    <a href="#"><img title="Jenkins" src="https://github.com/StasK86/StasK86/blob/main/PSV/logo/Jenkins.svg" width="50px"/></a>
+    <a href="#"><img title="Selenoid" src="https://github.com/StasK86/StasK86/blob/main/PSV/logo/Selenoid.svg" width="50px"/></a>
+    <a href="#"><img title="Allure Test Ops" src="https://github.com/StasK86/StasK86/blob/main/PSV/logo/AllureTestOps.svg" width="50px"/></a>
 </p>
 
 <h4>📖Особенности проекта</h4>
