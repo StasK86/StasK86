@@ -48,7 +48,7 @@
 <p align="center">
     <a href="#"><img title="Java" src="https://github.com/StasK86/StasK86/blob/main/PSV/logo/java.svg" width="30px"/></a>
     <a href="#"><img title="Gradle" src="https://github.com/StasK86/StasK86/blob/main/PSV/logo/Gradle.svg" width="50px"/></a>
-    <a href="#"><img title="JUnit5" src="https://github.com/StasK86/StasK86//blob/main/PSV/logo/JUnit5.svg" width="50px"/></a>
+    <a href="#"><img title="JUnit5" src="https://github.com/StasK86/StasK86/blob/main/PSV/logo/JUnit5.svg" width="50px"/></a>
     <a href="#"><img title="Selenide" src="https://github.com/StasK86/StasK86/blob/main/PSV/logo/Selenide.svg" width="50px"/></a>
     <a href="#"><img title="Allure_Report" src="https://github.com/StasK86/StasK86/blob/main/PSV/logo/Allure_Report.svg" width="50px"/></a>
     <a href="#"><img title="Jenkins" src="https://github.com/StasK86/StasK86/blob/main/PSV/logo/Jenkins.svg" width="50px"/></a>
