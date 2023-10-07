@@ -37,7 +37,7 @@
 ### <h2>Примеры работ:</h2>
 
 <h3>Проект по автоматизации тестовых сценариев для сайта www.bcc.kz</h3>
-<p>В <a href='https://github.com/StasK86/BCC_Tests.git'>проекте</a> релаизованы API и UI тесты</p>
+<p>В <a href='https://github.com/StasK86/BCC_Tests.git'>проекте</a> релаизованы UI тесты</p>
 
 <p align="center">
     <img title="Jenkins" src="https://github.com/StasK86/StasK86/blob/main/PSV/videos/video.gif" />
