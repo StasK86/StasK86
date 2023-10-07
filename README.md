@@ -6,25 +6,25 @@
 ### <h3 align="center">Мой стек технологий</h3>
 
 <p align="center">
-	<a href="#"><img title="Java" src="PSV/logo/java.svg" width="30px"/></a>
-	<a href="#"><img title="Gradle" src="PSV/logo/Gradle.svg" width="50px"/></a>
-	<a href="#"><img title="JUnit5" src="PSV/logo/JUnit5.svg" width="50px"/></a>
-	<a href="#"><img title="Selenide" src="PSV/logo/Selenide.svg" width="50px"/></a>
-	<a href="#"><img title="Appium" src="PSV/logo/Appium.svg" width="50px"/></a>
-	<a href="#"><img title="Rest-Assured" src="PSV/logo/Rest-Assured.svg" width="50px"/></a>
-	<a href="#"><img title="Allure_Report" src="PSV/logo/Allure_Report.svg" width="50px"/></a>
-	<a href="#"><img title="Docker" src="PSV/logo/Docker.svg" width="50px"/></a>
-	<a href="#"><img title="Jenkins" src="PSV/logo/Jenkins.svg" width="50px"/></a>
-	<a href="#"><img title="Selenoid" src="PSV/logo/Selenoid.svg" width="50px"/></a>
-	<a href="#"><img title="Browserstack" src="PSV/logo/Browserstack.svg" width="50px"/></a>
-	<a href="#"><img title="Allure Test Ops" src="PSV/logo/AllureTestOps.svg" width="50px"/></a>
+	<a href="#"><img title="Java" src="ilv/logo/java.svg" width="30px"/></a>
+	<a href="#"><img title="Gradle" src="ilv/logo/Gradle.svg" width="50px"/></a>
+	<a href="#"><img title="JUnit5" src="ilv/logo/JUnit5.svg" width="50px"/></a>
+	<a href="#"><img title="Selenide" src="ilv/logo/Selenide.svg" width="50px"/></a>
+	<a href="#"><img title="Appium" src="ilv/logo/Appium.svg" width="50px"/></a>
+	<a href="#"><img title="Rest-Assured" src="ilv/logo/Rest-Assured.svg" width="50px"/></a>
+	<a href="#"><img title="Allure_Report" src="ilv/logo/Allure_Report.svg" width="50px"/></a>
+	<a href="#"><img title="Docker" src="ilv/logo/Docker.svg" width="50px"/></a>
+	<a href="#"><img title="Jenkins" src="ilv/logo/Jenkins.svg" width="50px"/></a>
+	<a href="#"><img title="Selenoid" src="ilv/logo/Selenoid.svg" width="50px"/></a>
+	<a href="#"><img title="Browserstack" src="ilv/logo/Browserstack.svg" width="50px"/></a>
+	<a href="#"><img title="Allure Test Ops" src="ilv/logo/AllureTestOps.svg" width="50px"/></a>
 </p>
 
 ### Образование
 
  <table style="width=100%" cellspacing="0" cellpadding="5">
     <tr >
-        <td align="center"><a href="http://qa.guru/" target="_blank" rel="noopener noreferrer"><img style="width:150px" src="PSV/img/qaGuru.svg"></a></td>
+        <td align="center"><a href="http://qa.guru/" target="_blank" rel="noopener noreferrer"><img style="width:150px" src="ilv/img/qaGuru.svg"></a></td>
         <td>Школа инженеров по автоматизации тестирования Java QA.GURU.</td>
         <td>2023</td>
     </tr>
