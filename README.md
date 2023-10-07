@@ -58,11 +58,9 @@
 
 <h4>📖Особенности проекта</h4>
 <ul>
-	<li>:heavy_check_mark:Совмещение UI и API проверок в одном тесте</li>
+	<li>:heavy_check_mark:Сборка в Jenkins</li>
 	<li>:heavy_check_mark:Использование паттерна PageObject</li>
-	<li>:heavy_check_mark:Owner для конфигурации проекта</li>
-	<li>:heavy_check_mark:Кастомные отчеты в Allure для API запросов</li>
-	<li>:heavy_check_mark:Авторизация через АПИ</li>
+	<li>:heavy_check_mark:Allure отчет</li>
 	<li>:heavy_check_mark:Уведомления о прохождении тестов в телеграм</li>
 	<li>:heavy_check_mark:Интеграция с Allure Test Ops</li>
 	<li>:heavy_check_mark:Интеграция с Jira</li>
