@@ -1,6 +1,6 @@
 <h1 align="center">Привет! Меня зовут Стас
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Я учусь на инженера по автоматизации тестирования</h3>
+<h3 align="center">Я инженер по автоматизации тестирования</h3>
 
 
 ### <h3 align="center">Мой стек технологий</h3>
@@ -40,27 +40,91 @@
 <p>В <a href='https://github.com/StasK86/BCC_Tests.git'>проекте</a> релаизованы UI тесты</p>
 
 <p align="center">
-    <img title="Jenkins" src="https://github.com/StasK86/StasK86/blob/main/PSV/videos/video.gif" />
+    <img title="Jenkins" src="https://github.com/StasK86/BCC_Tests/blob/master/psv/videos/video.gif" />
 </p>
 
 <h4><a name='projectStack'>:cookie:Стек проекта:</a></h4>
 
 <p align="center">
-    <a href="#"><img title="Java" src="https://github.com/StasK86/StasK86/blob/main/PSV/logo/java.svg" width="30px"/></a>
-    <a href="#"><img title="Gradle" src="https://github.com/StasK86/StasK86/blob/main/PSV/logo/Gradle.svg" width="50px"/></a>
-    <a href="#"><img title="JUnit5" src="https://github.com/StasK86/StasK86/blob/main/PSV/logo/JUnit5.svg" width="50px"/></a>
-    <a href="#"><img title="Selenide" src="https://github.com/StasK86/StasK86/blob/main/PSV/logo/Selenide.svg" width="50px"/></a>
-    <a href="#"><img title="Allure_Report" src="https://github.com/StasK86/StasK86/blob/main/PSV/logo/Allure_Report.svg" width="50px"/></a>
-    <a href="#"><img title="Jenkins" src="https://github.com/StasK86/StasK86/blob/main/PSV/logo/Jenkins.svg" width="50px"/></a>
-    <a href="#"><img title="Selenoid" src="https://github.com/StasK86/StasK86/blob/main/PSV/logo/Selenoid.svg" width="50px"/></a>
-    <a href="#"><img title="Allure Test Ops" src="https://github.com/StasK86/StasK86/blob/main/PSV/logo/AllureTestOps.svg" width="50px"/></a>
+    <a href="#"><img title="Java" src="https://github.com/StasK86/StasK86/blob/main/ilv/logo/java.svg" width="30px"/></a>
+    <a href="#"><img title="Gradle" src="https://github.com/StasK86/StasK86/blob/main/ilv/logo/Gradle.svg" width="50px"/></a>
+    <a href="#"><img title="JUnit5" src="https://github.com/StasK86/StasK86/blob/main/ilv/logo/JUnit5.svg" width="50px"/></a>
+    <a href="#"><img title="Selenide" src="https://github.com/StasK86/StasK86/blob/main/ilv/logo/Selenide.svg" width="50px"/></a>
+    <a href="#"><img title="Allure_Report" src="https://github.com/StasK86/StasK86/blob/main/ilv/logo/Allure_Report.svg" width="50px"/></a>
+    <a href="#"><img title="Jenkins" src="https://github.com/StasK86/StasK86/blob/main/ilv/logo/Jenkins.svg" width="50px"/></a>
+    <a href="#"><img title="Selenoid" src="https://github.com/StasK86/StasK86/blob/main/ilv/logo/Selenoid.svg" width="50px"/></a>
+    <a href="#"><img title="Allure Test Ops" src="https://github.com/StasK86/StasK86/blob/main/ilv/logo/AllureTestOps.svg" width="50px"/></a>
 </p>
 
 <h4>📖Особенности проекта</h4>
 <ul>
 	<li>:heavy_check_mark:Сборка в Jenkins</li>
 	<li>:heavy_check_mark:Использование паттерна PageObject</li>
-	<li>:heavy_check_mark:Allure отчет</li>
+	<li>:heavy_check_mark:Owner для конфигурации проекта</li>
+    <li>:heavy_check_mark:Allure отчет</li>
+	<li>:heavy_check_mark:Уведомления о прохождении тестов в телеграм</li>
+	<li>:heavy_check_mark:Интеграция с Allure Test Ops</li>
+	<li>:heavy_check_mark:Интеграция с Jira</li>
+</ul>
+
+---
+
+<h3>Проект по автоматизации тестирования API для сайта [Reqres](https://reqres.in)</h3>
+<p>В <a href='https://github.com/StasK86/RequestsTests_Diploma'>проекте</a> релаизованы API тесты</p>
+
+<h4><a name='projectStack'>📖Стек проекта:</a></h4>
+<p align="center">
+    <a href="#"><img title="Java" src="https://github.com/StasK86/StasK86/blob/main/ilv/logo/java.svg" width="30px"/></a>
+    <a href="#"><img title="Gradle" src="https://github.com/StasK86/StasK86/blob/main/ilv/logo/Gradle.svg" width="50px"/></a>
+    <a href="#"><img title="JUnit5" src="https://github.com/StasK86/StasK86/blob/main/ilv/logo/JUnit5.svg" width="50px"/></a>
+    <a href="#"><img title="RestAssured" src="https://github.com/StasK86/StasK86/blob/main/ilv/logo/Rest-Assured.svg" width="50px"/></a>
+    <a href="#"><img title="Selenide" src="https://github.com/StasK86/StasK86/blob/main/ilv/logo/Selenide.svg" width="50px"/></a>
+    <a href="#"><img title="Allure_Report" src="https://github.com/StasK86/StasK86/blob/main/ilv/logo/Allure_Report.svg" width="50px"/></a>
+    <a href="#"><img title="Jenkins" src="https://github.com/StasK86/StasK86/blob/main/ilv/logo/Jenkins.svg" width="50px"/></a>
+    <a href="#"><img title="Selenoid" src="https://github.com/StasK86/StasK86/blob/main/ilv/logo/Selenoid.svg" width="50px"/></a>
+    <a href="#"><img title="Allure Test Ops" src="https://github.com/StasK86/StasK86/blob/main/ilv/logo/AllureTestOps.svg" width="50px"/></a>
+</p>
+
+<h4>📖Особенности проекта</h4>
+<ul>
+	<li>:heavy_check_mark:Использование паттерна PageObject</li>
+	<li>:heavy_check_mark:Owner для конфигурации проекта</li>
+	<li>:heavy_check_mark:Кастомные отчеты в Allure для API запросов</li>
+	<li>:heavy_check_mark:Уведомления о прохождении тестов в телеграм</li>
+	<li>:heavy_check_mark:Интеграция с Allure Test Ops</li>
+	<li>:heavy_check_mark:Интеграция с Jira</li>
+</ul>
+
+---
+
+<h3>Проект по автоматизации тестирования мобильного приложения[Wikipedia](https://ru.wikipedia.org/)</h3>
+<p>В <a href='https://github.com/StasK86/MobileProject_Diploma.git'>проекте</a> релаизованы  UI тесты для мобильного устройства</p>
+
+<p align="center">
+    <img title="Jenkins" src="https://github.com/StasK86/MobileProject_Diploma/blob/master/psv/videos/video.gif" />
+</p>
+
+<h4><a name='projectStack'>:iphone:Стек проекта:</a></h4>
+<p align="center">
+     <a href="#"><img title="Java" src="https://github.com/StasK86/StasK86/blob/main/ilv/logo/java.svg" width="30px"/></a>
+    <a href="#"><img title="Gradle" src="https://github.com/StasK86/StasK86/blob/main/ilv/logo/Gradle.svg" width="50px"/></a>
+    <a href="#"><img title="JUnit5" src="https://github.com/StasK86/StasK86/blob/main/ilv/logo/JUnit5.svg" width="50px"/></a>
+    <a href="#"><img title="RestAssured" src="https://github.com/StasK86/StasK86/blob/main/ilv/logo/Rest-Assured.svg" width="50px"/></a>
+    <a href="#"><img title="Selenide" src="https://github.com/StasK86/StasK86/blob/main/ilv/logo/Selenide.svg" width="50px"/></a>
+    <a href="#"><img title="Allure_Report" src="https://github.com/StasK86/StasK86/blob/main/ilv/logo/Allure_Report.svg" width="50px"/></a>
+    <a href="#"><img title="Jenkins" src="https://github.com/StasK86/StasK86/blob/main/ilv/logo/Jenkins.svg" width="50px"/></a>
+    <a href="#"><img title="Selenoid" src="https://github.com/StasK86/StasK86/blob/main/ilv/logo/Selenoid.svg" width="50px"/></a>
+    <a href="#"><img title="Allure Test Ops" src="https://github.com/StasK86/StasK86/blob/main/ilv/logo/AllureTestOps.svg" width="50px"/></a>
+    <a href="#"><img title="Allure Test Ops" src="https://github.com/StasK86/StasK86/blob/main/ilv/logo/Appium.svg" width="50px"/></a>
+    <a href="#"><img title="Allure Test Ops" src="https://github.com/StasK86/StasK86/blob/main/ilv/logo/Browserstack.svg" width="50px"/></a>
+</p>
+
+<h4>:iphone:Особенности проекта</h4>
+<ul>
+	<li>:heavy_check_mark:Использование библиотеки Selenide-Appium</li>
+	<li>:heavy_check_mark:Параметризованные тесты</li>
+	<li>:heavy_check_mark:Запуск тестов с помощью Browserstack</li>
+	<li>:heavy_check_mark:Owner для конфигурации проекта</li>
 	<li>:heavy_check_mark:Уведомления о прохождении тестов в телеграм</li>
 	<li>:heavy_check_mark:Интеграция с Allure Test Ops</li>
 	<li>:heavy_check_mark:Интеграция с Jira</li>
