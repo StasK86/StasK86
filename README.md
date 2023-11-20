@@ -92,7 +92,6 @@
 	<li>:heavy_check_mark:Кастомные отчеты в Allure для API запросов</li>
 	<li>:heavy_check_mark:Уведомления о прохождении тестов в телеграм</li>
 	<li>:heavy_check_mark:Интеграция с Allure Test Ops</li>
-	<li>:heavy_check_mark:Интеграция с Jira</li>
 </ul>
 
 ---
