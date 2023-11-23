@@ -1,7 +1,7 @@
 <h1 align="center">Привет! Меня зовут Стас
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Я+инженер+по+автоматизации+тестирования)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Я+инженер+по+автоматизации+тестирования+!)](https://git.io/typing-svg)
 
 ### <h3 align="center">Мой стек технологий</h3>
 
@@ -24,14 +24,6 @@
  
   <a href="https://t.me/K_Stas86">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
-  </a>
-
-   <a href="mailto:staskriger24@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
-  </a>
-
-  <a href="https://www.linkedin.com/in/stas-kriger-0397b3187/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
   </a>
 
 ### Образование
