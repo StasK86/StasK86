@@ -43,7 +43,7 @@
     <img title="Jenkins" src="https://github.com/StasK86/BCC_Tests/blob/master/psv/videos/video.gif" />
 </p>
 
-<h4><a name='projectStack'>📖Стек проекта:</a></h4>
+<h4><a name='projectStack'>:laptop:Стек проекта:</a></h4>
 
 <p align="center">
     <a href="#"><img title="Java" src="https://github.com/StasK86/StasK86/blob/main/ilv/logo/java.svg" width="30px"/></a>
