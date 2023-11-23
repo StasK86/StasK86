@@ -20,6 +20,12 @@
 	<a href="#"><img title="Allure Test Ops" src="ilv/logo/AllureTestOps.svg" width="50px"/></a>
 </p>
 
+### Связь
+ 
+  <a href="https://t.me/K_Stas86">
+    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+  </a>
+
 ### Образование
 
  <table style="width=100%" cellspacing="0" cellpadding="5">
