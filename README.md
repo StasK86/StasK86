@@ -72,7 +72,7 @@
 <h3>Проект по автоматизации тестирования API для сайта <a target="_blank" href="https://reqres.in/">Reqres.in </a></h3>
 <p>В <a href='https://github.com/StasK86/RequestsTests_Diploma'>проекте</a> релаизованы API тесты</p>
 
-<h4><a name='projectStack'>📖Стек проекта:</a></h4>
+<h4><a name='projectStack'>:computer:Стек проекта:</a></h4>
 <p align="center">
     <a href="#"><img title="Java" src="https://github.com/StasK86/StasK86/blob/main/ilv/logo/java.svg" width="30px"/></a>
     <a href="#"><img title="Gradle" src="https://github.com/StasK86/StasK86/blob/main/ilv/logo/Gradle.svg" width="50px"/></a>
@@ -118,7 +118,7 @@
     <a href="#"><img title="Allure Test Ops" src="https://github.com/StasK86/StasK86/blob/main/ilv/logo/Browserstack.svg" width="50px"/></a>
 </p>
 
-<h4>:iphone:Особенности проекта</h4>
+<h4>📖Особенности проекта</h4>
 <ul>
 	<li>:heavy_check_mark:Использование библиотеки Selenide-Appium</li>
 	<li>:heavy_check_mark:Параметризованные тесты</li>
